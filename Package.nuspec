@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>PearXMSBE</id>
+    <version>1.0.0</version>
+    <authors>PearX Team</authors>
+    <owners>PearX Team</owners>
+    <licenseUrl>https://github.com/PearXTeam/PearXMSBE/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/PearXTeam/PearXMSBE</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/PearXTeam/PearXMSBE/master/logo_msbe.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>An extensions for MSBuild from PearXTeam</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright (c) PearX Team, 2016</copyright>
+    <tags>msbuild msbe pxmsbe pearx pearx-msbe pearx-msbuild</tags>
+  </metadata>
+  <files>
+    <file src="bin/Release/PearXMSBE.dll" target="tools" />
+  </files>
+</package>

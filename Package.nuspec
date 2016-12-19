@@ -15,6 +15,7 @@
     <tags>msbuild msbe pxmsbe pearx pearx-msbe pearx-msbuild</tags>
   </metadata>
   <files>
-    <file src="bin/Release/PearXMSBE.dll" target="tools" />
+    <file src="bin/Release/PearXMSBE.dll" target="tools/net40" />
+    <file src="PearXMSBE.targets" target="build/net40" />
   </files>
 </package>
